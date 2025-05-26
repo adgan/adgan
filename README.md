@@ -1,4 +1,4 @@
-# Hi there, I'm Adrian! 👋
+# 👋
 
 I'm a **Software Engineer** passionate about building robust and scalable solutions. I enjoy working across the full software development lifecycle, from concept to deployment, and I'm always eager to learn new technologies.
 
